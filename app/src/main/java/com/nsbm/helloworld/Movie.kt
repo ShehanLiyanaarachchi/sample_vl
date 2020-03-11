@@ -1,3 +1,3 @@
-package com.nsbm.helloworld3
+package com.nsbm.helloworld
 
 data class Movie (var title: String, var image: String)

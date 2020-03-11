@@ -1,4 +1,4 @@
-package com.nsbm.helloworld3
+package com.nsbm.helloworld
 
 import android.content.Context
 import android.view.LayoutInflater

@@ -1,4 +1,4 @@
-package com.nsbm.helloworld3
+package com.nsbm.helloworld
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
